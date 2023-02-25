@@ -1,0 +1,76 @@
+body{
+    margin:0px;
+    background-color:lightgreen;
+    color: white;
+    font-family: "consolas",sans-serif;
+    
+}
+h1{
+    margin:0px;
+    background-color: rgb(241, 109, 109);
+    font-size: 50px;
+    font-weight: 100;
+    text-transform: uppercase;
+    font-style: italic;
+    text-align: center;
+}
+.rgb{
+    font-style: normal;
+    font-size: 75px;
+}
+.line{
+    height: 40px;
+    width: 100%;
+    text-align: center;
+    background-color:white;
+    padding: 0%;
+}
+.status{
+    background-color: pink;
+    width: 40%;
+    display: inline-block;
+    font-weight: 90%;
+    color:black;
+    text-transform: uppercase;
+}
+button{
+    border: none;
+    height: 40px;
+    border-radius: 1%;
+    background:none;
+    color: black;
+    background-color:lightsalmon;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+}
+#easyBtn{
+    background-color: green;
+
+}
+#hardBtn{
+    background-color: red;
+}
+#hardBtn:hover{
+    background-color: red;
+}
+#desc{
+    border: none;
+    height: 30px;
+    border-radius: 1%;
+    margin-bottom: 500px;
+    color: black;
+    background-color:rgb(255, 255, 255);
+   
+
+    
+}
+
+.box{
+    width:30%;
+    background: white;
+    padding-bottom: 30%;
+    margin:1.66%;
+    border-radius: 20px;
+    float: left;
+    
+}
